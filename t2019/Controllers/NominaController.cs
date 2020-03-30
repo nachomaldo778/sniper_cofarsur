@@ -26,5 +26,9 @@ namespace t2019.Controllers
             var result = CNomina.GetNomina(param);
             return result;
         }
-    }
+
+		public string prueba() { return ""; }
+	}
+
+	
 }
