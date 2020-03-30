@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  /*background-image: linear-gradient(to bottom, #357ce9, #18a5f2, #65c8ef, #aee5ef, #f5fffe);*/
+  background-color: #F7EFD5;
+}
+
+/*Colores*/
+
+.amarillo{
+ 
+}
+
+.darkgray {
+  background-color: darkslategray;
+}
+
+
+/*Snackbar*/
+
+.snack-primary, .snack-primary button {
+  background-color: #3D5AFE;
+  color: #E8EAF6;
+}
+
+.snack-success, .snack-success button {
+  background-color: #00C851;
+  color: #E8EAF6;
+}
+
+.snack-danger, .snack-danger button {
+  background-color: #ff4444;
+  color: #E8EAF6;
+}

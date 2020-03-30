@@ -1,0 +1,45 @@
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.deps.json
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.dll
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.pdb
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.dll
+C:\Proyecto\APIs\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.deps.json
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.deps.json
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Net3.12\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.deps.json
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Net3.13\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.deps.json
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\bin\Release\netcoreapp2.2\DataAccess.pdb
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.dll
+C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Release\netcoreapp2.2\DataAccess.pdb

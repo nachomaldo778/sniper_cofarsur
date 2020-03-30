@@ -1,0 +1,36 @@
+
+<app-login-home [ReciveLoginId]="idLoginAccion" (LoginAccion)="Recibe_LoginAccion($event)"></app-login-home>
+
+<div class="contenedor" id="contenedor">
+  <app-home-menu (LoginAccion)="Recibe_LoginAccion($event)"></app-home-menu>
+
+  <!--<div class="container-fluid mt-10 mb-10 text-center ">
+     <button mat-raised-button (click)="testmysql()">TestMySQL</button>
+    <img class="responsive-image mt-3" src="../../../assets/images/SBOT/SBOT_3D_Long.gif" />
+    <h1 class="display-4">Sitio en construcción...</h1>
+  </div>-->
+
+  <app-parte-diario></app-parte-diario>
+
+
+
+
+
+
+
+  <footer>
+    <div class="row mt-1">
+      <div class="col-2">
+        <img src="../../../assets/images/SBOT/SBOT_3D_Long.gif" style="width: 50px; height: 50px;" alt="..." />
+      </div>
+
+      <div class="col-8">
+        <div class="footer-copyright text-center py-3">
+          © 2020 Copyright: SniperBot®
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+</div>
