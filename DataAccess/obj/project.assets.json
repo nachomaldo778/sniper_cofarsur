@@ -2289,7 +2289,7 @@
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
-      "sha512": "jz3TWKMAeuDEyrPCK5Jyt4bzQcmzUIMcY9Ud6PkElFxTfnsihV+9N/UCqvxe1z5gc7jMYAnj7V1COMS9QKIuHQ==",
+      "sha512": "LoSjM/kLDpyLyoGsmwS5oVMRzHf/0XHkRpr3QZu/HuAv6Sfk919usTMLqD9N9VK3S4Q2+bd3tKJ0ko4MYFfq4Q==",
       "type": "package",
       "path": "system.configuration.configurationmanager/4.4.1",
       "files": [
@@ -4030,7 +4030,7 @@
       ]
     },
     "System.Security.Cryptography.ProtectedData/4.4.0": {
-      "sha512": "cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
+      "sha512": "WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
       "type": "package",
       "path": "system.security.cryptography.protecteddata/4.4.0",
       "files": [
@@ -4886,23 +4886,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Angel\\.nuget\\packages\\": {},
+    "C:\\Users\\Maici\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SNIPER\\Proyectos_2020\\Angular\\Cofarsur 1.1\\Net3.1\\t2019\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\Proyectos\\Github\\sniper_cofarsur\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\SNIPER\\Proyectos_2020\\Angular\\Cofarsur 1.1\\Net3.1\\t2019\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "C:\\SNIPER\\Proyectos_2020\\Angular\\Cofarsur 1.1\\Net3.1\\t2019\\DataAccess\\obj\\",
+      "projectPath": "E:\\Proyectos\\Github\\sniper_cofarsur\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Maici\\.nuget\\packages\\",
+      "outputPath": "E:\\Proyectos\\Github\\sniper_cofarsur\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maici\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
