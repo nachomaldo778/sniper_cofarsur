@@ -57,6 +57,7 @@ import { NominaService } from './services/rrhh/nomina/nomina.service';
 import { NominaEndPoint } from './services/rrhh/nomina/nomina-endpoint';
 import { NovedadesService } from './services/rrhh/novedades/novedades.service';
 import { NovedadesEndPoint } from './services/rrhh/novedades/novedades-endpoint';
+import { ModalMarcacionComponent } from './components/modals/modal-marcacion/modal-marcacion.component';
 
 declare var $: any;
 console.log(`jQuery version: ${$.fn.jquery}`);
@@ -68,7 +69,11 @@ console.log(`jQuery version: ${$.fn.jquery}`);
     HomeComponent,
     LoginComponent,
     HomeMenuComponent,
-    ParteDiarioComponent
+    ParteDiarioComponent,
+    ModalMarcacionComponent
+  ],
+  entryComponents: [
+    ModalMarcacionComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),

@@ -88,3 +88,15 @@ C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\Backend\obj\Debug\net
 C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\Backend\obj\Debug\netcoreapp2.2\Backend.csproj.CopyComplete
 C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\Backend\obj\Debug\netcoreapp2.2\Backend.dll
 C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\Backend\obj\Debug\netcoreapp2.2\Backend.pdb
+E:\Proyectos\Github\sniper_cofarsur\Backend\bin\Debug\netcoreapp2.2\Backend.deps.json
+E:\Proyectos\Github\sniper_cofarsur\Backend\bin\Debug\netcoreapp2.2\Backend.dll
+E:\Proyectos\Github\sniper_cofarsur\Backend\bin\Debug\netcoreapp2.2\Backend.pdb
+E:\Proyectos\Github\sniper_cofarsur\Backend\bin\Debug\netcoreapp2.2\DataAccess.dll
+E:\Proyectos\Github\sniper_cofarsur\Backend\bin\Debug\netcoreapp2.2\DataAccess.pdb
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.csprojAssemblyReference.cache
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.csproj.CoreCompileInputs.cache
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfoInputs.cache
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfo.cs
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.csproj.CopyComplete
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.dll
+E:\Proyectos\Github\sniper_cofarsur\Backend\obj\Debug\netcoreapp2.2\Backend.pdb

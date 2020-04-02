@@ -3,7 +3,8 @@ import { Novedades } from 'src/app/models/rrhh/novedades/novedades.model';
 import { NovedadesService } from 'src/app/services/rrhh/novedades/novedades.service';
 
 
-import { MatTableDataSource, MatPaginator } from '@angular/material';
+import { MatTableDataSource, MatPaginator, MatDialog } from '@angular/material';
+import { ModalMarcacionComponent } from 'src/app/components/modals/modal-marcacion/modal-marcacion.component';
 
 
 @Component({
@@ -28,7 +29,7 @@ export class ParteDiarioComponent implements OnInit {
     'I_SIN_INCIDENCIAS',
     'H_ADICIONALES',
     'H_AUSENCIA'
-];
+  ];
 
 
   dataSource = new MatTableDataSource<Novedades>([]); // primero se declara un dataSource para la tabla
@@ -37,12 +38,12 @@ export class ParteDiarioComponent implements OnInit {
 
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
 
-  constructor(private NovedadesService: NovedadesService ) { }
+  constructor(private NovedadesService: NovedadesService, public dialog: MatDialog) { }
 
   ngOnInit() {
+
     this.NovedadesService.getnovedades(this.txtParam).subscribe((result: Novedades[]) => {
       this.dataSource.data = result;
-      console.log(result);
     });
   }
 
@@ -58,6 +59,22 @@ export class ParteDiarioComponent implements OnInit {
     this.dataSource.filter = filterValue.trim().toLowerCase();
   }
 
+  openModalData(row) {
+
+    const dialogRef = this.dialog.open(ModalMarcacionComponent, {
+      width: '1000px',
+      height: '350px',
+      panelClass: 'no-padding',
+      data: {
+        titulo: 'Novedades',
+        obj: row,
+       }
+    });
+
+    dialogRef.afterClosed().subscribe(result => {
+      console.log('The dialog was closed');
+    });
+  }
 
 
 

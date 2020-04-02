@@ -11,7 +11,7 @@ body {
 /*Colores*/
 
 .amarillo{
- 
+
 }
 
 .darkgray {
@@ -34,4 +34,8 @@ body {
 .snack-danger, .snack-danger button {
   background-color: #ff4444;
   color: #E8EAF6;
+}
+
+.no-padding mat-dialog-container {
+  padding: 0;
 }

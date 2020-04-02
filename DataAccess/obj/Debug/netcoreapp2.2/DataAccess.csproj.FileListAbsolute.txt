@@ -52,3 +52,12 @@ C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Debug\
 C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
 C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
 C:\SNIPER\Proyectos_2020\Angular\Cofarsur 1.1\Net3.1\t2019\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+E:\Proyectos\Github\sniper_cofarsur\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
